@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="testcases">
+	<test name="UnitTestCases">
+		<classes>
+			<class name="com.sgtesting.testcases.Testcases">
+			</class>
+		</classes>
+	</test>
+</suite>
